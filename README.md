@@ -70,8 +70,15 @@ Right now, I’m learning to blend **logic + aesthetics** to make fun and useful
 
 ### 📫 Let’s Connect  
 <p align="center">
-  <a href="mailto:Chayada.dada2549@gmail.com"><img src="https://img.shields.io/badge/Email-Chayada.dada2549%40gmail.com-50aaff?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Dada-ff76c9?style=for-the-badge&logo=github"/></a>
+  <a href="mailto:Chayada.dada2549@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Chayada.dada2549%40gmail.com-50aaff?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/gonnasleep29">
+    <img src="https://img.shields.io/badge/GitHub-Dada-ff76c9?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="YOUR_RESUME_LINK" target="[_blank](https://drive.google.com/file/d/1-J0o4TiqffV32jhNP9wciZWyb1FbV9gy/view)">
+    <img src="https://img.shields.io/badge/Resume-ff5885?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
 </p>
 
 ---
