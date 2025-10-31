@@ -70,14 +70,14 @@ Right now, I’m learning to blend **logic + aesthetics** to make fun and useful
 
 ### 📫 Let’s Connect  
 <p align="center">
-  <a href="mailto:Chayada.dada2549@gmail.com"><img src="https://img.shields.io/badge/Email-Chayada.dada2549%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Dada-black?style=for-the-badge&logo=github"/></a>
+  <a href="mailto:Chayada.dada2549@gmail.com"><img src="https://img.shields.io/badge/Email-Chayada.dada2549%40gmail.com-50aaff?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Dada-ff76c9?style=for-the-badge&logo=github"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffe25f,50:ff820c,100:ff368a&height=120&section=footer" />
 </p>
 
 > ✨ *“Code with curiosity, create with heart, and always keep a sprinkle of sparkle.”* 🌷
