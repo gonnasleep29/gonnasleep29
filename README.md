@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=220&section=header&text=Hi%20I'm%20Dada!%20🌸&fontSize=45&fontAlignY=35&desc=Creative%20Coder%20%7C%20ICT%20Student%20%7C%20Tech%20Dreamer&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:1e90ff&height=220&section=header&text=Hi%20I'm%20Dada!%20🌸&fontSize=45&fontAlignY=35&desc=Creative%20Coder%20%7C%20ICT%20Student%20%7C%20Tech%20Dreamer&descAlignY=55&descAlign=50" />
 </p>
 
 <!-- Badges -->
