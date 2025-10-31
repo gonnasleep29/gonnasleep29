@@ -22,7 +22,7 @@ Right now, I’m learning to blend **logic + aesthetics** to make fun and useful
 ### 🚀 Tech Stack  
 #### 💡 Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,vscode,canva,illustrator,capcut,github" />
+  <img src="https://skillicons.dev/icons?i=python,c,vscode,illustrator,github" />
 </p>
 
 #### 🌱 Currently Exploring  
@@ -62,8 +62,8 @@ Right now, I’m learning to blend **logic + aesthetics** to make fun and useful
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gonnasleep29&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=gonnasleep29&theme=radical&hide_border=true" height="165" />
 </p>
 
 ---
