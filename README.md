@@ -35,10 +35,10 @@ Right now, I’m learning to blend **logic + aesthetics** to make fun and useful
 
 ### 💼 Experience & Activities  
 - 💰 **Treasurer @ Board Game Club**  
-  Budgeting, event organizing, and teamwork (also secretly the Catan champion 😆)  
+  Budgeting, event organizing, and teamwork (also secretly the Catan champion)  
 
 - 🏫 **MUICT Open House 2025 Staff**  
-  Managed tech setups, helped guests, and kept things running smoothly 💪  
+  Managed tech setups, helped guests, and kept things running smoothly
 
 - 🧠 **Project Work & Volunteering**  
   Learned leadership, communication, and collaboration across different roles  
@@ -48,7 +48,7 @@ Right now, I’m learning to blend **logic + aesthetics** to make fun and useful
 ### 💬 Soft Skills  
 ✨ Creativity & critical thinking  
 🤝 Teamwork & adaptability  
-🧘 Calm debugging (most days 😅)  
+🧘 Calm debugging (most days)  
 💡 “Google it till it works” mindset  
 
 ---
