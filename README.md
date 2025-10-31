@@ -1,13 +1,13 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F54,50:6A5ACD,100:FF9DE6&height=200&section=header&text=Hi%20I'm%20Dada!🌸&fontSize=45&fontAlignY=35&fontColor=ffffff&desc=Creative%20Coder%20|%20ICT%20Student%20|%20Tech%20Dreamer&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a1b97,50:b25fff,100:ff40cb&height=200&section=header&text=Hi%20I'm%20Dada!🌸&fontSize=45&fontAlignY=35&fontColor=ffffff&desc=Creative%20Coder%20|%20ICT%20Student%20|%20Tech%20Dreamer&descAlignY=55&descAlign=50" />
 </p>
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/💻-ICT%20Student-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/🎨-Creative%20Thinker-pink?style=flat-square" />
-  <img src="https://img.shields.io/badge/☕-Fueled%20by%20Caffeine-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/💻-ICT%20Student-1a29be?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎨-Creative%20Thinker-b25fff?style=flat-square" />
+  <img src="https://img.shields.io/badge/☕-Fueled%20by%20Caffeine-FF9DE6?style=flat-square" />
 </p>
 
 ---
