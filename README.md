@@ -76,7 +76,7 @@ Right now, I’m learning to blend **logic + aesthetics** to make fun and useful
   <a href="https://github.com/gonnasleep29">
     <img src="https://img.shields.io/badge/GitHub-Dada-ff76c9?style=for-the-badge&logo=github"/>
   </a>
-  <a href=target="(https://drive.google.com/file/d/1-J0o4TiqffV32jhNP9wciZWyb1FbV9gy/view)">
+  <a href=target="https://drive.google.com/file/d/1-J0o4TiqffV32jhNP9wciZWyb1FbV9gy/view">
     <img src="https://img.shields.io/badge/Resume-ff5885?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
